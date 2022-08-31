@@ -1,7 +1,7 @@
 # Kide.app Ticket Bot
 
 - A simple ticket buying bot for https://kide.app/ site build with Node.js and React.
-- Reserves maxium amount of every available ticket variant for event. 
+- Reserves maxium amount of tickets for every available ticket variant. 
 - App logic is set to private submodule to avoid this bot from spreading uncontrollably.
 
 ## Usage
